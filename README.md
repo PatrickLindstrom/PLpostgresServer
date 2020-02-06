@@ -1,2 +1,2 @@
 # PLpostgresServer
-PostgreSQL server installation document
+PostgreSQL palvelimen asennuksen dokumentoiti löytyy Wiki-sivuilta.
